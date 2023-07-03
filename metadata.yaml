@@ -1,0 +1,5 @@
+homepage: "https://scoby.io"
+documentation: "https://scoby.io/integrations/gtm-server-side"
+versions:
+  - sha: 9862fa64206a8c3f70a64187e7d4b1a03df5ed7d
+    changeNotes: Initial release.
